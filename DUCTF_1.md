@@ -10,8 +10,8 @@ Une fois que le fichier est téléchargé on obtien un gif composé de plusieur 
 On va convertir le gif en plusieurs image format png (toutes les images qui composent le gif)
 
 
-'''bash
+```bash
 convert challenge.gif %04d.png 
-'''
+```
 
 **3. Recomposion des QR codes.**
